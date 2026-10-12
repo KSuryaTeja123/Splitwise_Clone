@@ -166,6 +166,4 @@ Open `http://localhost:5173`, register an account, and create your first group.
 
 ---
 
-## License
 
-MIT — free to use for learning, portfolios, and interviews.
